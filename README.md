@@ -24,4 +24,6 @@ $$
 ### Condición inicial para una semilla fija
 
 
+![alt text](https://github.com/diegoolguinw/EpidemicCrossDiffusion/blob/main/Imagenes/Resolucion_sistema/Ini_con.pdf?raw=true)
+
     
